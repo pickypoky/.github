@@ -1,1 +1,65 @@
+# 📝 피키포키 PickyPoky
+
+**감정과 키워드로 간편하게 하루를 돌아보는 일기 분석 AI 서비스**
+
+<img width="2560" height="1440" alt="슬라이드1" src="https://github.com/user-attachments/assets/d27ba274-4213-4a6a-97bc-a349d8c07bbf" />
+<br/>
+
+
+## 📱 서비스 소개
+
+**“이때 무슨 일이 있었지?”, “이날 내 기분이 어땠지..?”**
+
+피키포키는 매일 기록한 **일기를 AI로 분석**하여 감정과 키워드를 시각적으로 보여주고, **나를 돌아보는 습관을 기를 수 있도록 도와주는** 서비스입니다.
+
+<img width="2560" height="1440" alt="슬라이드2" src="https://github.com/user-attachments/assets/2cb9dc78-1600-41fc-9776-1b0042204158" />
+<img width="2560" height="1440" alt="슬라이드3" src="https://github.com/user-attachments/assets/9774c295-6eb6-49e2-b5f6-bc20b45ece83" />
+<br/>
+
+
+## 💡 주요 기능
+
+### ✍️ 감정 및 키워드 자동 분석
+- 사용자가 작성한 일기를 HyperCLOVA X가 분석하여 **감정과 핵심 키워드**를 추출합니다.
+- 감정은 **이모지로 시각화**되어 직관적으로 확인할 수 있습니다.
+
+<img width="2560" height="1440" alt="슬라이드6" src="https://github.com/user-attachments/assets/c7f01a61-19e5-4982-a3ff-f0cd5f1b642b" />
+
+### 📅 일기 리스트 관리
+- 작성한 모든 일기를 리스트로 확인 가능하며, **과거의 나를 쉽게 되짚어볼 수 있습니다.** 
+
+<img width="2560" height="1440" alt="슬라이드4" src="https://github.com/user-attachments/assets/b184810f-ae05-4cff-a7d5-7c5180f4b5b9" />
+<br/>
+
+
+## 🔧 기술 스택
+
+| 분야 | 기술 |
+|------|------|
+| FE (Front-End) | Flutter (Dart) |
+| BE (Back-End) | Spring Boot, JPA, Security |
+| AI 분석 | HyperCLOVA X |
+| 인증 시스템 | JWT, 네이버 소셜 로그인 |
+| 디자인 | Figma, UX/UI, Graphic, Branding |
+<br/>
+
+
+## 👥 TEAM [감정평가단] 소개
+
+| 이름 | 역할 | 한마디 | 주요 기술 |
+|------|------|--------|-----------|
+| 양정원 | 기획 | 치열해서 즐거웠습니다! | Wireframe, IA, 상위 기획 |
+| 이정아 | UX/UI 디자이너 | 설득력 있는 디자인을 합니다 | Figma, UX/UI, Graphic |
+| 이하경 | UX/UI 디자이너 | 임기응변에 강합니다 | Drawing, UX/UI |
+| 임정민 | FE 개발 | 상상을 현실로 만드는 개발자 | Dart, Flutter |
+| 박선욱 | BE 개발 | 행복 포텐 터진데이 | Spring Boot, JPA, Security |
+| 이종수 | BE 개발 | PickyPoky 최고! | Spring Boot, JPA, Security |
+<br/>
+
+
+## 👏🏻 Thanks for reading!
+
+**피키포키는 당신의 하루를 돌아보는 가장 간단한 방법입니다.** 지금 바로 시작해보세요! 🌱
+<br/>
+
 
