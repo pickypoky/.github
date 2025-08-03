@@ -1,6 +1,8 @@
 # 📝 피키포키 PickyPoky
 
 **감정과 키워드로 간편하게 하루를 돌아보는 일기 분석 AI 서비스**
+
+<img width="2560" height="1440" alt="슬라이드1" src="https://github.com/user-attachments/assets/d27ba274-4213-4a6a-97bc-a349d8c07bbf" />
 <br/>
 
 ## 📌 서비스 소개
