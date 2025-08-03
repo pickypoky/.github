@@ -1,12 +1,77 @@
-## Hi there 👋
+# 📝 피키포키 (PickyPoky)
 
-<!--
+**감정과 키워드로 간편하게 하루를 돌아보는 일기 분석 AI 서비스**
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📌 소개
+
+**“이때 무슨 일이 있었지?”  
+“이날 내 기분이 어땠지..?”**
+
+피키포키는 매일 기록한 **일기를 AI로 분석**하여 감정과 키워드를 시각적으로 보여주고,  
+**나를 돌아보는 습관을 기를 수 있도록 도와주는** 서비스입니다.
+
+---
+
+## 💡 주요 기능
+
+### 1. ✍️ 감정 및 키워드 자동 분석
+- 사용자가 작성한 일기를 HyperCLOVA X가 분석하여 **감정과 핵심 키워드**를 추출합니다.
+- 감정은 **이모지로 시각화**되어 직관적으로 확인할 수 있습니다.
+
+### 2. 📊 통계 시각화
+- **감정 변화 추이**와 **키워드 빈도**를 시각화하여 보여줍니다.
+- 나의 감정 패턴을 주기적으로 확인할 수 있습니다.
+
+### 3. 💬 맞춤형 피드백 제공
+- 감정 분석 결과를 바탕으로 **긍정적인 감정 습관 형성**을 위한 맞춤형 조언을 제공합니다.
+
+### 4. 📅 일기 리스트 관리
+- 작성한 모든 일기를 리스트로 확인 가능하며, **과거의 나를 쉽게 되짚어볼 수 있습니다.**
+
+---
+
+## 🔧 기술 스택
+
+| 분야 | 기술 |
+|------|------|
+| FE (Front-End) | Flutter (Dart) |
+| BE (Back-End) | Spring Boot, JPA, Security |
+| AI 분석 | HyperCLOVA X |
+| 인증 시스템 | JWT, 네이버 소셜 로그인 |
+| 디자인 | Figma, UX/UI, Graphic, Branding |
+
+---
+
+## 🧪 향후 개발 예정 기능
+- 분석 결과 기반 **감정 제안 기능 강화**
+- **추가 통계 유형 제공**
+- 사용자별 **감정 회고 주기 추천 기능**
+
+---
+
+## 👥 팀 감정평가단
+
+| 이름 | 역할 | 한마디 | 주요 기술 |
+|------|------|--------|-----------|
+| 임정민 | FE 개발 | 상상을 현실로 만드는 개발자 | Dart, Flutter |
+| 박선욱 | BE 개발 | 행복 포텐 터진데이 | Spring Boot, JPA, Security |
+| 이종수 | BE 개발 | PickyPoky 최고! | Spring Boot, JPA, Security |
+| 이정아 | UX/UI 디자이너 | 설득력 있는 디자인을 합니다 | Figma, UX/UI, Graphic |
+| 이하경 | UX/UI 디자이너 | 임기응변에 강합니다 | Drawing, UX/UI |
+| 양정원 | 기획 | 치열해서 즐거웠습니다! | Wireframe, IA, 상위 기획 |
+
+---
+
+## 🔗 링크
+
+- 💻 [서비스 둘러보기 (데모)](URL_예시)
+- 📄 [팀 노션 페이지 보기](URL_예시)
+
+---
+
+## 🙏 Thanks for reading!
+
+**피키포키는 당신의 하루를 돌아보는 가장 간단한 방법입니다.**  
+지금 바로 시작해보세요! 🌱
